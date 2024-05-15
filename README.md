@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @hilderos
-- 👀 I’m interested in software development and cryptography
-- 🌱 I’m currently learning Python, Java and C++
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me: Hild#0001 on discord
+Watch. This. Space
 
 <!---
 hilderos/hilderos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
